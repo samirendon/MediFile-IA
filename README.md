@@ -57,7 +57,7 @@ Tecnologías sugeridas:
 ## Colaboradores 🐶
 
 - Samara Sofia Rendón Mazo 
-- Maria Fernanda Torres
+- Maria Fernanda Torres ([Maria Fernanda Torres] (https://github.com/MariaFTG))
 
 ## Estado del proyecto
 
