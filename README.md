@@ -12,11 +12,10 @@ MediFile IA es un proyecto académico orientado al desarrollo de una aplicación
 - [Objetivo general](#objetivo-general)
 - [Objetivos específicos](#objetivos-específicos)
 - [Alcance](#alcance)
-- [Características principales](#características-principales)
-- [Instalación](#instalación)
-- [Construcción del proyecto](#construcción-del-proyecto)
-- [Recursos útiles](#recursos-útiles)
+- [Características principales](#caracteristicas-principales)
+- [Construcción del proyecto](#construccion-del-proyecto)
 - [Colaboradores](#colaboradores)
+- [Estado del proyecto](#estado-del-proyecto)
 
 ## Planteamiento del problema
 
