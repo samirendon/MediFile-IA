@@ -48,7 +48,6 @@ El proyecto contempla el análisis, diseño, desarrollo, pruebas y despliegue de
 
 ## Construcción del proyecto
 
-Tecnologías sugeridas:
 - Frontend móvil
 - Backend
 - Base de datos
