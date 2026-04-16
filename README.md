@@ -67,8 +67,8 @@ Tecnologías sugeridas:
 
 ## Colaboradores
 
-- Integrante 1
-- Integrante 2
+- Samara Rendón 
+- Maria Fernanda Torres
 
 ## Estado del proyecto
 
