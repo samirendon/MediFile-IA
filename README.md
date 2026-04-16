@@ -1,4 +1,4 @@
-# MediFile IA
+# MediFile-IA
 
 Aplicación móvil para la organización de documentos clínicos, la gestión de citas médicas y la generación de recomendaciones inteligentes de apoyo no diagnóstico.
 
@@ -56,9 +56,9 @@ Tecnologías sugeridas:
   
 ## Colaboradores
 
-- Samara Rendón 
+- Samara Sofia Rendón Mazo 
 - Maria Fernanda Torres
 
 ## Estado del proyecto
 
-Proyecto académico en fase de análisis, diseño y documentación.
+El Proyecto académico se encunetra en fase de análisis, diseño y documentación.
