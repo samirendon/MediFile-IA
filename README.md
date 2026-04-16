@@ -47,10 +47,6 @@ El proyecto contempla el análisis, diseño, desarrollo, pruebas y despliegue de
 - Generación de recordatorios automáticos
 - Recomendaciones inteligentes de apoyo no diagnóstico
 
-## Instalación
-
-Proyecto académico en fase de documentación y desarrollo.
-
 ## Construcción del proyecto
 
 Tecnologías sugeridas:
@@ -58,13 +54,7 @@ Tecnologías sugeridas:
 - Backend
 - Base de datos
 - Módulo de IA
-
-## Recursos útiles
-
-- GitHub
-- Markdown
-- Documentación técnica de la tecnología elegida
-
+  
 ## Colaboradores
 
 - Samara Rendón 
@@ -72,4 +62,4 @@ Tecnologías sugeridas:
 
 ## Estado del proyecto
 
-Proyecto académico en desarrollo.
+Proyecto académico en fase de análisis, diseño y documentación.
